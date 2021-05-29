@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "YieldMath.sol / Log2: >= or > ?",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/2"
+}
