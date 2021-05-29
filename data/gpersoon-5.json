@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "auth collision possible",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/5"
+}
