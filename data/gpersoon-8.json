@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "Witch can't give back vault after 2x grab",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/8"
+}
