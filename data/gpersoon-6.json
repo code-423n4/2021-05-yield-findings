@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "Unauthorized functions in Ladle.sol and PoolRouter.sol",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/6"
+}
