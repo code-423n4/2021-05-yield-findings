@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "0xsomeone",
+  "address": "0xa462fae8b85FFf172660c5D9e3C98C84691CA4d2",
+  "risk": "3",
+  "title": "Duplication of Balance",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/16"
+}
