@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "FYTokens can be minted for free",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/28"
+}
