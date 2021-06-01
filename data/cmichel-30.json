@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Undercollateralized vaults' owner can be overwritten",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/30"
+}
