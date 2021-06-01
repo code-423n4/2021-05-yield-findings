@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Vaults are in liquidation forever instead of just for auction length",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/31"
+}
