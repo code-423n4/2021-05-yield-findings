@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Missing sender address check in receive() may lead to locked Ether",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/48"
+}
