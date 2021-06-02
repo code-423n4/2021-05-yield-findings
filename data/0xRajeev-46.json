@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Return values of batch operations are ignored",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/46"
+}
