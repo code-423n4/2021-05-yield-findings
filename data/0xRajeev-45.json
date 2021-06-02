@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Violation of implicit constraints in batched operations may break protocol assumptions",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/45"
+}
