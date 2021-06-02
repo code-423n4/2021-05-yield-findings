@@ -1,0 +1,9 @@
+{
+  "contest": "Yield contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Incompatibility With Rebasing/Deflationary/Inflationary tokens",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2021-05-yield-findings/issues/52"
+}
